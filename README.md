@@ -56,14 +56,19 @@ Average price for year graph shows summer and winter holidays are the best time 
 
 ![](imgs/Sheet2.png)
 
+98184 Zipcode of USA has the highest Average Price -- Bank of America, Seattle, WA, USA
+98125 Zipcode of USA has the lowest Average Price -- Victory Heights|Lake City, Seattle, WA, USA
+
 ## 4. How expensive each zipcode is? 
 
-## Price by Zipcode
+## Average Price by Zipcode
 
 ![](imgs/Sheet1.png)
 
 If i want to start an airbnb business, where i should go? 
-Buy home put it on airbnb and start renting it?
+
+Buy home put it on airbnb and start renting it out?
+
 where is the best place? what factors to look for?
 
 ## 5. Looking at the renting competition.

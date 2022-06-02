@@ -1,5 +1,14 @@
 # Visualizing Airbnb listing 2016 Dataset using Tableau
 
+## About AirBnB
+
+Airbnb is an online community marketplace for people to list, discover, and book accommodations through mobile phones or the internet.
+
+The company connects travelers seeking authentic experiences with hosts offering unique, inspiring spaces. Whether the available space is a castle for a night, a sailboat for a week, or an apartment for a month,Airbnb is the easiest way for people to showcase these distinctive spaces to an audience of millions. By facilitating bookings and financial transactions, Airbnb makes the process of listing or booking a space effortless and efficient.
+With 4,500,000 listings in over 65,000 cities in 191 countries, the company offers the widest variety of unique spaces for everyone, at any price point around the globe.
+
+The company was co-founded in August 2008 by Brian Chesky and Joe Gebbia, and is currently headquartered in San Francisco, California.
+
 ## Dataset Source - https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset
 
 This is AirBnB Public Listing 2016 Dataset to figure out the Average price per bedroom, Price by Zipcode, Revenue for year, Price per Zipcode, Distinct Count of Bedroom Listings and many more.

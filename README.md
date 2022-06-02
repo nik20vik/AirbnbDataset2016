@@ -66,6 +66,7 @@ Average price for year graph shows summer and winter holidays are the best time 
 ![](imgs/Sheet2.png)
 
 98184 Zipcode of USA has the highest Average Price -- Bank of America, Seattle, WA, USA
+
 98125 Zipcode of USA has the lowest Average Price -- Victory Heights|Lake City, Seattle, WA, USA
 
 ## 4. How expensive each zipcode is? 
